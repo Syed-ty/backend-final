@@ -1,4 +1,4 @@
-# Comment System Web Application - Backend (Nodejs with postgracesql)
+# Comment System Web Application - Backend (Nodejs with postgreSQL)
 
 Install the necessary dependency by using this command ---   npm install 
 
