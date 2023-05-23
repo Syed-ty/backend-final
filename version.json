@@ -1,0 +1,14 @@
+{
+    "appName":"Backend App Name",
+    "version": "01.00.00.0",
+    "dependecies":[
+        {
+            "appName":"Requires App Name 1",
+            "version": "xx.xx.xx.x"
+        },
+        {
+            "appName":"Requires App Name 2",
+            "version": "xx.xx.xx.x"
+        }
+    ]
+}
