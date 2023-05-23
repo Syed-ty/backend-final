@@ -1,8 +1,6 @@
 const UserService = require('../../src/services/service')
 const {StatusCodes} =  require('http-status-codes')
-const Pagination= require('../utils/Pagination')
 
-const pagination = new Pagination()
  module.exports = class UserController {
     constructor(){
         console.log('User controller is created')
